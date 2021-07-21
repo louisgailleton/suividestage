@@ -1,0 +1,15 @@
+#titreSessions {
+    text-align: center;
+}
+
+.boutonVoir{
+
+    right: 0px;
+    margin-right: 10px;
+    display: inline-block;
+    float: right;
+}
+
+.nomFichierAMasquer{
+    display: none;
+}

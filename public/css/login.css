@@ -1,0 +1,13 @@
+body {
+    background: rgb(200,248,255) !important;
+    background: linear-gradient(90deg, rgba(200,248,255,1) 0%, rgba(0,87,171,1) 100%) !important;
+    background-color: unset !important;
+}
+
+body::after{
+    content: unset !important;
+}
+
+body::before{
+    content: unset !important;
+}
